@@ -1,0 +1,16 @@
+expression s                  description 
+[abc]                find one or many of the character insdie the brackets 
+[^abc]               find any character NOT between the brackets 
+[a-z]                find any character alphabetically between two letters 
+[A-z]                fing any chracter alphabetically between a spceified upper case letter and a spcefified lower- case letter 
+[A-Z]                 find any character alphabetically between two upper -case letters
+[123]                find one or many of the digits insdie the brackers 
+ 
+
+
+
+fdcv glpc bpuc vhxj
+
+ upload files on a particular folder in upload do chatgpt 
+
+ 

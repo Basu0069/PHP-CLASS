@@ -43,8 +43,8 @@ function swap($x,$y)
 $a++;
 
 ?>
-
-<!-- array name is the pointer which by default points to the first element of an aray..It is basically a pointer  -->
+ -->
+<!-- array name is the pointer which by default points to the first element of an aray..It is basically a pointer 
 
 
     
